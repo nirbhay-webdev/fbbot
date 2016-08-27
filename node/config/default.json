@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "1bc4e8f6d50c99a1074a5ed869cc1d75",
+    "pageAccessToken": "EAAQC4t0yyZAMBAKj28waopLM5PYaLDA9ztPNUl1iKzw0739HfDyKjSzpVu0dRG52QdAX18sPANGAZAw9eY6ZC57Tzh8u9i4FGx7zbGplCyTOo0zKrJocrzDnRtkP7jiE6VINd9ZBI2evN2DjQWfmcpQekNhhiyTcr4cWd5iETQZDZD",
+    "validationToken": "test_token",
+    "serverURL": "ec2-52-43-65-189.us-west-2.compute.amazonaws.com"
 }
